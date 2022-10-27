@@ -1,12 +1,12 @@
 # zzAS - Aplikacje Sieciowe
 ## Harmonogram pracy w ramach AS, daty oznaczają deadline danego zadania:
-* 1. widok, kontroler - 22.10
-* 2. ochrona zasobów - 29.10
-* 3. i 4. szablonowanie - 5.11
+* 22.10 - widok, kontroler 
+* 29.10 - ochrona zasobów 
+* 5.11 - szablonowanie 
 (w 1 wybranej technologii Smarty lub Twig)
-* 5. obiektowość - 12.11
+* 12.11 - obiektowość 
 (jednocześnie deadline określenia TEMATU zadania indywidualnego)
-* 6. (a i b) kontroler główny, nowa struktura i autoloader - 19.11
-* 7. (a i b) ochrona z kontrolerem głównym, routing - 26.11
+* 19.11 - (a i b) kontroler główny, nowa struktura i autoloader
+* 26.11 - (a i b) ochrona z kontrolerem głównym, routing
 (przesłanie projektu BD na Teams)
-* 8. BD - jednocześnie deadline na poprawki w BD - 3.12
+* 3.12 - BD - jednocześnie deadline na poprawki w BD
