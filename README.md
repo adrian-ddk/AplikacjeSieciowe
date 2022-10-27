@@ -1,4 +1,5 @@
 # zzAS - Aplikacje Sieciowe
+'''
 Harmonogram pracy w ramach AS, daty oznaczają deadline danego zadania:
 22.10   1. widok, kontroler
 29.10   2. ochrona zasobów
@@ -7,3 +8,4 @@ Harmonogram pracy w ramach AS, daty oznaczają deadline danego zadania:
 19.11   6. (a i b) kontroler główny, nowa struktura i autoloader
 26.11   7. (a i b) ochrona z kontrolerem głównym, routing - przesłanie projektu BD na Teams
 3.12    8. BD - jednocześnie deadline na poprawki w BD
+'''
